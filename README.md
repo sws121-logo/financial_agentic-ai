@@ -1,9 +1,5 @@
 ﻿# financial_agentic-ai
-Here is a professional, comprehensive **README.md** for your Multi-Agent AI System. 
 
-I have carefully crafted this based on the two code snippets you provided. It combines the *core logic* of the first script with the *deployment/Playground setup* of the second script into a single, polished documentation file that you can paste directly into your GitHub repository.
-
----
 
 # Multi-Agent AI System for Financial Analysis & Web Research
 
